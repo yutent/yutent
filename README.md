@@ -16,9 +16,9 @@
   [![Browser:Chrome](https://img.shields.io/badge/Browser-Chrome-red?style=flat-square)](https://www.google.com/chrome)
   [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-teal?style=flat-square)](https://linuxmint.com)
   [![DEV:Javascript](https://img.shields.io/badge/DEV-Javascript-red?style=flat-square)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-  [![DEV:PHP](https://img.shields.io/badge/DEV-PHP-grey?style=flat-square)](https://www.php.net)
+  [![DEV:PHP](https://img.shields.io/badge/DEV-PHP-slateblue?style=flat-square)](https://www.php.net)
   [![DEV:Dart](https://img.shields.io/badge/DEV-Dart-blue?style=flat-square)](https://dart.dev)
   [![DEV:Flutter](https://img.shields.io/badge/DEV-Flutter-blue?style=flat-square)](https://docs.flutter.dev/get-started/install)
-  [![DEV:Python](https://img.shields.io/badge/DEV-Python-blue?style=flat-square)](https://www.python.org)
+  [![DEV:Python](https://img.shields.io/badge/DEV-Python-royalblue?style=flat-square)](https://www.python.org)
   
 </div>
