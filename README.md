@@ -11,7 +11,7 @@
   
   [![OS:LMDE](https://img.shields.io/badge/OS-LMDE-teal?style=flat-square)](https://linuxmint.com)
   [![OS:macOS](https://img.shields.io/badge/OS-macOS-black?style=flat-square)](https://www.apple.com/mac)
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-purple?style=flat-square)](https://code.visualstudio.com)
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square)](https://code.visualstudio.com)
   [![IDE:Vim](https://img.shields.io/badge/IDE-Vim-darkgreen?style=flat-square)](https://vim.org/)
   [![Browser:Chrome](https://img.shields.io/badge/Browser-Chrome-red?style=flat-square)](https://www.google.com/chrome)
   [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-teal?style=flat-square)](https://linuxmint.com)
