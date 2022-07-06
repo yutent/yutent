@@ -22,3 +22,10 @@
   [![DEV:Python](https://img.shields.io/badge/DEV-Python-royalblue?style=flat-square)](https://www.python.org)
   
 </div>
+
+<a href="https://github.com/reaink">
+  <img src="https://github-readme-stats.vercel.app/api?username=yutent&theme=vue&show_icons=true&layout=compact&count_private=true&line_height=31&hide_border=true"  width="400" />
+</a>
+<a href="https://github.com/reaink">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yutent&layout=compact&theme=vue&hide_border=true" width="400" />
+</a>
