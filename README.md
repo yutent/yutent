@@ -9,12 +9,12 @@
 
 <div align="center">
   
-  [![OS:LMDE](https://img.shields.io/badge/OS-LMDE-teal?style=flat-square)](https://linuxmint.com)
+  [![OS:Debian](https://img.shields.io/badge/OS-Debian-teal?style=flat-square)](https://debian.org)
   [![OS:macOS](https://img.shields.io/badge/OS-macOS-black?style=flat-square)](https://www.apple.com/mac)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square)](https://code.visualstudio.com)
   [![IDE:Vim](https://img.shields.io/badge/IDE-Vim-darkgreen?style=flat-square)](https://vim.org/)
   [![Browser:Chrome](https://img.shields.io/badge/Browser-Chrome-red?style=flat-square)](https://www.google.com/chrome)
-  [![DE:Cinnamon](https://img.shields.io/badge/DE-Cinnamon-teal?style=flat-square)](https://linuxmint.com)
+  [![DE:Xfce4](https://img.shields.io/badge/DE-Xfce4-teal?style=flat-square)](https://xfce.org)
   [![DEV:Javascript](https://img.shields.io/badge/DEV-Javascript-red?style=flat-square)](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
   [![DEV:PHP](https://img.shields.io/badge/DEV-PHP-slateblue?style=flat-square)](https://www.php.net)
   [![DEV:Dart](https://img.shields.io/badge/DEV-Dart-blue?style=flat-square)](https://dart.dev)
