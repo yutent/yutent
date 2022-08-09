@@ -9,7 +9,7 @@
 
 <div align="center">
   
-  [![OS:Debian](https://img.shields.io/badge/OS-Debian-teal?style=flat-square)](https://debian.org)
+  [![OS:Debian](https://img.shields.io/badge/OS-Debian-red?style=flat-square)](https://debian.org)
   [![OS:macOS](https://img.shields.io/badge/OS-macOS-black?style=flat-square)](https://www.apple.com/mac)
   [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square)](https://code.visualstudio.com)
   [![IDE:Vim](https://img.shields.io/badge/IDE-Vim-darkgreen?style=flat-square)](https://vim.org/)
