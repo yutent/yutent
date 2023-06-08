@@ -22,5 +22,5 @@
 
 
 <a href="https://github.com/yutent">
-  <img src="https://stats.wkit.fun/api/toplangs?username=yutent&count=10"  width="800" />
+  <img src="https://stats.wkit.fun/api/toplangs?username=yutent&count=10"  width="100%" />
 </a>
