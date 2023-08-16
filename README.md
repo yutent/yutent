@@ -3,7 +3,6 @@
 [![OS:macOS](https://img.shields.io/badge/OS-MacOS-black?style=flat-square)](https://www.apple.com/mac)
 
 ![my de](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E6%A1%8C%E9%9D%A2:%20-white?style=flat-square)
-[![DE:Xfce4](https://img.shields.io/badge/DE-Xfce4-teal?style=flat-square)](https://xfce.org)
 [![WM:bspwm](https://img.shields.io/badge/WM-bspwm-teal?style=flat-square)](https://github.com/baskerville/bspwm)
   
 ![my editor](https://img.shields.io/badge/%E6%88%91%E7%9A%84%E7%BC%96%E8%BE%91%E5%99%A8:%20-white?style=flat-square)
