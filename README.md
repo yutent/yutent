@@ -2,4 +2,4 @@
 # 即日起, 我将删除我所有的仓库, 拒绝github强制要求2步认证。
 
 
-## 我所有的项目, 统一迁到 [https://git.izero.im](https://git.izero.im)
+## 我所有的项目, 统一迁到 [https://git.wkit.fun](https://git.wkit.fun)
